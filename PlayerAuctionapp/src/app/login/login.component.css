@@ -1,0 +1,38 @@
+.bk{
+    background-color: blueviolet ;
+    height: 705px;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;  
+      
+}
+.container
+{ 
+   margin: auto;
+   width: 40%;
+   border:3px black;
+   padding: 10px;   
+}
+.headline
+{
+    color: black;
+    font-weight: bolder;
+    margin-top: 78px;
+}
+.form-group
+{
+    color: black;
+}
+
+.checkbox
+{
+    color: goldenrod;
+}
+
+.right
+{
+    color: red;
+  
+    float: right;
+    
+}
